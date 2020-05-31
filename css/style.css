@@ -1,0 +1,10 @@
+h1{
+    color: red;
+    text-align: center;
+}
+p{
+    color: darkblue;
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
